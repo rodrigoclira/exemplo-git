@@ -1,4 +1,4 @@
 # exemplo-git
 Exemplo da aula 05
 
-Mudanndo a feature
+Mudando a feature
