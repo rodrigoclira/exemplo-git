@@ -4,9 +4,9 @@ namespace ExempleBib
 {
     public class Class1
     {
-        public static void Teste()
+       public static void main()
         {
-            Console.WriteLine("Olá");
+            Funcs.buscarContatoNome("Rodrigo");
         }
     }
 }
